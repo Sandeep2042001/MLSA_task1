@@ -19,9 +19,9 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a photo you
  * freely use on your site.
  */
-import image from "../images/design-desk.jpeg";
+import image from "../images/3rd.jpeg";
 
-const imageAltText = "desktop with books and laptop";
+const imageAltText = "A beautiful view";
 
 /**
  * Project list
@@ -31,28 +31,28 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "Meet me",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "You can meet me here and can connect with me",
+    url: "https://sandeep2042001.github.io/MeetToSandeepLive/",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Learn DSA at my website",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "from my site you can learn data structures and algorithms.",
+    url: "https://sandeep2042001.github.io/Makeiteasy/",
   },
   {
-    title: "My Resume Site",
+    title: "my Portfolio",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "Heyy.. se me at my portfolio and connect with me",
+    url: "https://glowing-wisp-805758.netlify.app/",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "Keep Notes",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "You can keep your daily notes sage here and can learn from them",
+    url: "https://sandeep2042001.github.io/keepNotes/",
   },
 ];
 
